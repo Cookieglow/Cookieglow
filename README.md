@@ -1,4 +1,4 @@
-## Hi there 👋
+## hello welcome to cookie glow the perfect cosmetic for you👋
 
 <!--
 **Cookieglow/Cookieglow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
